@@ -16,5 +16,7 @@ todo:
 - adjusting text speed should adjust 
 
 example:
-https://github.com/AwesomeAxolotl/AnimatedRichTextLabel/assets/4991495/391102bf-a75f-425a-b0de-3275edceb13f
+https://github-production-user-asset-6210df.s3.amazonaws.com/4991495/296614505-262abe3f-e453-4745-8115-3592551eec3f.mp4
+
+
 
